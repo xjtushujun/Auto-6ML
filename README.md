@@ -10,7 +10,7 @@ The Auto^6ML code including four aspects:data automation、network automation、
 [1] Shu J, Meng DY, Xu ZB. [Learning an explicit hyperparameter prediction policy conditioned on tasks.](https://arxiv.org/pdf/2107.02378v1.pdf)2021.
 
 ### Data Automation
-[1] Jun Shu, Qi Xie, Lixuan Yi, Qian Zhao, Sanping Zhou, Zongben Xu, Deyu Meng. [Meta-weight-net: Learning an explicit mapping for sample weighting.](https://arxiv.org/pdf/1902.07379.pdf) NeurIPS, 2019. [code]()
+[1] Jun Shu, Qi Xie, Lixuan Yi, Qian Zhao, Sanping Zhou, Zongben Xu, Deyu Meng. [Meta-weight-net: Learning an explicit mapping for sample weighting.](https://arxiv.org/pdf/1902.07379.pdf) NeurIPS, 2019. [code](https://github.com/xjtushujun/Auto-6ML/tree/main/Data%20Automation/MW-Net)
 
 [2] Yichen Wu, Jun Shu, Qi Xie, Qian Zhao, Deyu Meng. [Learning to Purify Noisy Labels via Meta Soft Label Corrector.](https://ojs.aaai.org/index.php/AAAI/article/view/17244) AAAI, 2021.
 
