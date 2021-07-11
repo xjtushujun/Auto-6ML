@@ -1,6 +1,6 @@
 Auto^6ML is a [jittor](https://github.com/Jittor/jittor) package providing support for machine learning automation and some popular meta-learning algorithms. 
 
-The Auto^6ML code including four aspects:data automation、network automation、loss automation and algorithm automation. This repository is building.
+The Auto^6ML code including four aspects: data automation、network automation、loss automation and algorithm automation. This repository is building.
 
 ## Main References
 ### Survey
