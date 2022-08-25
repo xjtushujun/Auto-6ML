@@ -17,10 +17,12 @@ The Auto^6ML code including four aspects: data automation„ÄÅnetwork automation„Ä
 [3] Jun Shu, Xiang Yuan, Deyu Meng, Zongben Xu. [CMW-Net: Learning a Class-Aware Sample Weighting Mapping for Robust Deep Learning.](https://arxiv.org/pdf/2202.05613.pdf) In TPAMI, Major revision, 2022.
 
 ### Network Automation
-[1] Renzhen Wang, Kaiqin Hu, Yanwen Zhu, Jun Shu, Qian Zhao, Deyu Meng. [Meta Feature Modulator for Long-tailed Recognition.](https://arxiv.org/pdf/2008.03428.pdf) 2021.
+[1] Jun Shu, Qian Zhao, Zongben Xu, Deyu Meng. [Meta Transition Adaptation for Robust Deep Learning with Noisy Labels.](https://arxiv.org/pdf/2006.05697.pdf) 2021.
+
+[2] Renzhen Wang, Kaiqin Hu, Yanwen Zhu, Jun Shu, Qian Zhao, Deyu Meng. [Meta Feature Modulator for Long-tailed Recognition.](https://arxiv.org/pdf/2008.03428.pdf) 2021.
 
 ### Loss Automation
-[1] Jun Shu, Qian Zhao, Zongben Xu, Deyu Meng. [Meta Transition Adaptation for Robust Deep Learning with Noisy Labels.](https://arxiv.org/pdf/2006.05697.pdf) 2021.
+[1] Xiangyu Rui, Xiangyong Cao, Qi Xie, Zongsheng Yue, Qian Zhao, Deyu Meng. [Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise.] (https://openaccess.thecvf.com/content/CVPR2021/html/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.html). In CVPR, 2021.
 
 [2] Jun Shu, Qian Zhao, Keyu Chen, Zongben Xu, Deyu Meng. [Learning adaptive loss for robust learning with noisy labels.](https://arxiv.org/pdf/2002.06482.pdf) 2021.
 
