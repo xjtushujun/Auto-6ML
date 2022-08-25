@@ -14,6 +14,8 @@ The Auto^6ML code including four aspects: data automation„ÄÅnetwork automation„Ä
 
 [2] Yichen Wu, Jun Shu, Qi Xie, Qian Zhao, Deyu Meng. [Learning to Purify Noisy Labels via Meta Soft Label Corrector.](https://ojs.aaai.org/index.php/AAAI/article/view/17244) In AAAI, 2021.
 
+[3] Jun Shu, Xiang Yuan, Deyu Meng, Zongben Xu. [CMW-Net: Learning a Class-Aware Sample Weighting Mapping for Robust Deep Learning.](https://arxiv.org/pdf/2202.05613.pdf) In TPAMI, Major revision, 2022.
+
 ### Network Automation
 [1] Renzhen Wang, Kaiqin Hu, Yanwen Zhu, Jun Shu, Qian Zhao, Deyu Meng. [Meta Feature Modulator for Long-tailed Recognition.](https://arxiv.org/pdf/2008.03428.pdf) 2021.
 
@@ -23,4 +25,4 @@ The Auto^6ML code including four aspects: data automation„ÄÅnetwork automation„Ä
 [2] Jun Shu, Qian Zhao, Keyu Chen, Zongben Xu, Deyu Meng. [Learning adaptive loss for robust learning with noisy labels.](https://arxiv.org/pdf/2002.06482.pdf) 2021.
 
 ### Algorithm Automation
-[1] Jun Shu, Yanwen Zhu, Qian Zhao, Zongben Xu, Deyu Meng. [MLR-SNet: Transferable LR Schedules for Heterogeneous Tasks.](https://arxiv.org/pdf/2007.14546.pdf) 2021
+[1] Jun Shu, Yanwen Zhu, Qian Zhao, Zongben Xu, Deyu Meng. [MLR-SNet: Transferable LR Schedules for Heterogeneous Tasks.](https://arxiv.org/pdf/2007.14546.pdf). TPAMI, 2022.
