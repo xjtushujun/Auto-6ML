@@ -30,7 +30,7 @@ The Auto^6ML code including four aspects: data automation„ÄÅnetwork automation„Ä
 
 [2] Xiangyu Rui, Xiangyong Cao, Qi Xie, Zongsheng Yue, Qian Zhao, Deyu Meng. [Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise.](https://openaccess.thecvf.com/content/CVPR2021/html/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.html) In CVPR, 2021.
 
-[3] Kehui Ding, Jun Shu, Deyu Meng, Zongben Xu. [https://arxiv.org/pdf/2301.07306.pdf](https://arxiv.org/pdf/2301.07306.pdf), 2023.
+[3] Kehui Ding, Jun Shu, Deyu Meng, Zongben Xu. [Improve noise tolerance of robust loss via noise-awareness](https://arxiv.org/pdf/2301.07306.pdf), 2023.
 
 
 ### Algorithm Automation
