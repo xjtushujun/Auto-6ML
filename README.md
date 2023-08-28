@@ -7,7 +7,7 @@ The Auto^6ML code including four aspects: data automation„ÄÅnetwork automation„Ä
 [1] Jun Shu, Zongben Xu, Deyu Meng. [Small sample learning in big data era.](https://arxiv.org/pdf/1808.04572.pdf) 2018. 
 
 ### Framework and Theory
-[1] Jun Shu, Deyu Meng, Zongben Xu. [Learning an explicit hyperparameter prediction policy conditioned on tasks.](https://arxiv.org/pdf/2107.02378v1.pdf](https://www.jmlr.org/papers/volume24/21-0742/21-0742.pdf) JMLR, 2023.
+[1] Jun Shu, Deyu Meng, Zongben Xu. [Learning an explicit hyperparameter prediction policy conditioned on tasks.](https://www.jmlr.org/papers/volume24/21-0742/21-0742.pdf) JMLR, 2023.
 
 ### Data Automation
 [1] Jun Shu, Qi Xie, Lixuan Yi, Qian Zhao, Sanping Zhou, Zongben Xu, Deyu Meng. [Meta-weight-net: Learning an explicit mapping for sample weighting.](https://arxiv.org/pdf/1902.07379.pdf) In NeurIPS, 2019. [code](https://github.com/xjtushujun/Auto-6ML/tree/main/Data%20Automation/MW-Net)
